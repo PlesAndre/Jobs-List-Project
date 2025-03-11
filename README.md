@@ -24,7 +24,7 @@ Si tratta di un progetto basilare, pensato per esercitarsi con la manipolazione 
 
 Clona il repository:
 
-git clone https://github.com/tuo-username/jobs-list-project.git
+git clone https://github.com/PlesAndre/Jobs-List-Project.git
 
 Apri il file index.html direttamente nel browser.
 
